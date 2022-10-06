@@ -1,0 +1,4 @@
+//Tudo certo
+/*
+Tudo comentado
+*/
